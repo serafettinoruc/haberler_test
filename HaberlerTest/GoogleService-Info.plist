@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1001974719098-6925ef2dlg6urdf0ebjm888rch91p600.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1001974719098-6925ef2dlg6urdf0ebjm888rch91p600</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1001974719098-nht1j9fm5fc6qm9dk8c11v98g725b3uk.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIPYULMpkyb8MNR1jxQ0av5f1Lk1uyNHs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1001974719098</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>yenimedya</string>
+	<key>PROJECT_ID</key>
+	<string>haberler-43c8</string>
+	<key>STORAGE_BUCKET</key>
+	<string>haberler-43c8.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1001974719098:ios:b66551716bbcff61</string>
+	<key>DATABASE_URL</key>
+	<string>https://haberler-43c8.firebaseio.com</string>
+</dict>
+</plist>
